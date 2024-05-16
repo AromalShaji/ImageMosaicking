@@ -30,5 +30,5 @@ pip install opencv-python numpy matplotlib
     ```
 
 ## Output
+![Mosaic Image](https://github.com/AromalShaji/ImageMosaicking/blob/main/Picture1.jpg)
 
-If successful, the script will display the resultant mosaic image.

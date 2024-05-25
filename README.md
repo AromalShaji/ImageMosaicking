@@ -3,7 +3,7 @@
 This Python script demonstrates how to create a mosaic by stitching two images together using the Scale-Invariant Feature Transform (SIFT) algorithm for keypoint detection and matching, along with the Random Sample Consensus (RANSAC) algorithm for estimating the homography matrix.
 
 ## Requirements
-
+ hi
 - Python 3
 - OpenCV (`cv2`)
 - NumPy

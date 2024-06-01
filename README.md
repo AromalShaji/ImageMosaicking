@@ -9,6 +9,8 @@ This Python script demonstrates how to create a mosaic by stitching two images t
 - NumPy
 - Matplotlib
 
+
+
 ## Installation
 
 You can install the required packages via pip:
